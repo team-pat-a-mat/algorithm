@@ -11,7 +11,7 @@
 
 ## ✨ 함께 하는 사람들
 |박현석|소다솜|
-|:--:|:--:|:--:|
+|:--:|:--:|
 |<img src="https://avatars.githubusercontent.com/u/87220944?v=4" width=110>|<img src="https://avatars.githubusercontent.com/u/107921099?v=4" width=110>|<img src="https://avatars.githubusercontent.com/u/111004706?v=4" width=110>|
 |[@ssseok](https://github.com/ssseok)|[@Sodasom](https://github.com/Sodasom)|
 
